@@ -8,4 +8,4 @@ My goal is to create impactful machine learning and deep learning projects, whil
 
 Let’s connect and collaborate on exciting projects! 🌟
 
-![Ahmed Hafızoğlu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedhfz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhfz&layout=compact&theme=radical)
