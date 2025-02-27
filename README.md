@@ -8,6 +8,7 @@ My goal is to create impactful machine learning and deep learning projects, whil
 
 Let’s connect and collaborate on exciting projects! 🌟
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhfz&layout=compact&theme=tokyonight)
+[![Ahmed's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedhfz&theme=tokyonight)](https://github.com/ahmedhfz)
+
 
 
