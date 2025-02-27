@@ -2,7 +2,7 @@
 
 I’m a Junior AI Developer and first-year software engineering student with a passion for machine learning and artificial intelligence. 🚀 I’m eager to explore how data and intelligent systems can shape the world around us.
 
-Currently, I’m building a strong foundation in Python, working with libraries like NumPy, Pandas, Matplotlib, and Seaborn for data analysis and visualization. I also use scikit-learn to develop machine learning models and PostgreSQL for database management.
+Currently, I’m focused on developing deep learning models, utilizing frameworks like TensorFlow and PyTorch. I work with convolutional neural networks (CNNs) and pretrained models such as EfficientNet, applying transfer learning and fine-tuning techniques to enhance performance. I also use scikit-learn to develop machine learning models and PostgreSQL for database management.
 
 My goal is to create impactful machine learning and deep learning projects, while constantly learning and improving. 🤖 If any AI-powered robots are going to take over the world, I will be the one controlling them !!
 
