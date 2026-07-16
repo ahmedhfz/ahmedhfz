@@ -32,15 +32,11 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,typescript,react,nextjs,postgres,supabase,aws,docker,git" />
 </p>
 
-### GitHub
+### GitHub Activity
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ahmedhfz&show_icons=true&hide_border=true&theme=transparent"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhfz&layout=compact&hide_border=true&theme=transparent"
+    src="https://streak-stats.demolab.com?user=ahmedhfz&hide_border=true&theme=transparent"
+    alt="GitHub contribution stats"
   />
 </p>
